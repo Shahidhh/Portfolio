@@ -245,7 +245,7 @@ header {
   content: "70%";
 }
 .progress-line .python::after {
-  content: "50%";
+  content: "70%";
 }
 .progress-line .javascript::after {
   content: "40%";
